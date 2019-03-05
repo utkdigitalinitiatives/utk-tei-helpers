@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://expath.org/ns/pkg" name="utk-tei-helpers" abbrev="utk-tei-helpers" version="0.1" spec="1.0">
+  <title>UTK TEI Helper Functions</title>
+  <xquery>
+    <namespace>http://cob.net</namespace>
+    <file>utk-tei-helpers.xql</file>
+  </xquery>
+</package>
