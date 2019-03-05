@@ -1,0 +1,12 @@
+<meta xmlns="http://exist-db.org/xquery/repo">
+  <description>UTK TEI Helper Functions</description>
+  <author>Bridger Dyson-Smith</author>
+  <website>https://github.com/utkdigitalinitiatives</website>
+  <status>stable</status>
+  <license>GNU GPL, version 2</license>
+  <copyright>true</copyright>
+  <type>library</type>
+  <target>not specified</target>
+  <prepare/>
+  <deployed/>
+</meta>
