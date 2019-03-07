@@ -1,0 +1,10 @@
+# idea directories
+.idea/
+*.iml
+
+# vim swap files
+.*.swp
+*~
+
+# ant output directory
+build/
