@@ -10,7 +10,7 @@ xquery version "3.0" encoding "UTF-8";
 
 
 (: module declaration :)
-module namespace bds = "http://cob.net";
+module namespace bds = "http://some.url.net/utk-tei-helpers";
 
 (: imports :)
 import module namespace functx = "http://www.functx.com";
