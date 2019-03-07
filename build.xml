@@ -8,7 +8,7 @@
   <!-- target: xar -->
   <target name="xar">
     <mkdir dir="${build.dir}"/>
-    <zip basedir="." destfile="${build.dir}/${project}.xar" excludes="${build.dir}, README.md"/>
+    <zip basedir="." destfile="${build.dir}/${project}.xar" excludes="${build.dir}, README.md" includes="build.xml, expath-pkg.xml, content/**"/>
   </target>
 
 </project>
