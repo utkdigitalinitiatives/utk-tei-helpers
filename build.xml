@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="xar" name="utk-tei-helpers">
+
+  <!-- properties -->
+  <property name="project" value="utk-tei-helpers"/>
+  <property name="build.dir" value="build"/>
+
+  <!-- target: xar -->
+  <target name="xar">
+    <mkdir dir="${build.dir}"/>
+    <zip basedir="." destfile="${build.dir}/${project}.xar" excludes="${build.dir}, README.md"/>
+  </target>
+
+</project>
