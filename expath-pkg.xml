@@ -5,5 +5,4 @@
     <namespace>http://some.url.net/utk-tei-helpers</namespace>
     <file>utk-tei-helpers.xql</file>
   </xquery>
-  <dependency package="http://www.functx.org"/>
 </package>
